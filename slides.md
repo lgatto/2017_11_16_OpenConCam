@@ -23,9 +23,10 @@ format) and adapt (remix, transform, and build upon the material) for
 any purpose, even commercially
 <img src="/home/lg390/Pictures/cc1.jpg" alt="cc1" height="30px">.
 
-## Credit
+## Together on a journey
 
-- OpenConCam: OpenCon Cambridge group - http://www.openconcam.org/
+- OpenCon Cambridge group - http://www.openconcam.org/
+- \#Rampage2017 group
 - **Corina Logan** - [\@LoganCorina](https://twitter.com/LoganCorina) - http://corinalogan.com/
 
 <img src="./DSC_5386_cropped.JPG" alt="Corina and Laurent", width="60%" align="right">
@@ -52,7 +53,7 @@ any purpose, even commercially
   to make the paper look better for publishing at prestigious
   journals.
 
-##  The Bullied Into Bad Science campaign is an initiative by early career researchers (ECRs) for early career researchers who aim for a fairer, more open and ethical research and publication environment.
+##  The **Bullied Into Bad Science** campaign is an initiative by early career researchers (ECRs) for early career researchers who aim for a **fairer**, more **open** and **ethical** research and publication environment.
 
 ## Background
 

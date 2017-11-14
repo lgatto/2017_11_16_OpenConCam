@@ -1,4 +1,17 @@
 
+## Together on a journey
+
+I am going to tell you about a long, still on-going a journey. I'll
+talk about my journey, but it applies to many, I know. And when you
+are on a long journey, you meet many people, take help you
+along. Before telling more about this journey, I would like to thank
+some that are close to my heart when it comes to open science and open
+research. These are the people who helped organising this event, and
+its predecessors; these are people that share the values I will be
+talking about; and there's in particular the ever inspiring Corina
+Logan, who is the person who initiated and who leads the
+#BulliedIntoBadScience campaign.
+
 ## Yes, it's personal!
 
 I don't know about you, but I care a lot about my work. I am a
