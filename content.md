@@ -53,7 +53,7 @@ This is a quote shared with us by one of the signatories of the
 
 > I have been constantly harassed by superiors to modify data in order
 > to provide better agreement with known experimental values in order
-> to make the paper look better for publishing at prestigious
+> to make the paper look better for publishing in prestigious
 > journals.
 
 We all have constrains in our work, in our everyday live. We don't
@@ -71,6 +71,11 @@ that prompted us and guided us along the way.
 > campaign is an initiative by early career researchers (ECRs) for
 > early career researchers who aim for a fairer, more open and ethical
 > research and publication environment.
+
+Because a good researcher and a successful researcher are not the same
+thing. With this campaign, we want to lead individuals and
+institutions in adopting open practices to improve research rigour. We
+want a good researcher and a successful academic to realign.
 
 ## Some background
 
@@ -133,3 +138,20 @@ we could consider indicators of success, or lack thereof.
 
 - There are multiple ways to fight any battle, and often several are
   needed in parallel: **official** procedure and **community** efforts.
+
+## Final word
+
+If there's one thing that is important to remember, it's that
+
+> No researcher is too junior to fix science!
+
+(find the reference [here](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928))
+
+But while no researcher is too young, some certainly are more
+vulnerable than others. It is thus even more important that the more
+priviledged ones (and that certainly counts me: white, male, from a
+prestigious institution) make themselves heard so that, together
+
+> We won't be **#BulliedIntoBadScience**!
+
+

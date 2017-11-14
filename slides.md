@@ -49,11 +49,14 @@ any purpose, even commercially
 ## 
 
 > I have been constantly harassed by superiors to modify data in order
-  to provide better agreement with known experimental values in order
-  to make the paper look better for publishing at prestigious
-  journals.
+> to provide better agreement with known experimental values in order
+> to make the paper look better for publishing in prestigious
+> journals.
 
 ##  The **Bullied Into Bad Science** campaign is an initiative by early career researchers (ECRs) for early career researchers who aim for a **fairer**, more **open** and **ethical** research and publication environment.
+
+## Because a **good** researcher and a **successful** researcher are not the same thing.
+
 
 ## Background
 
@@ -105,10 +108,10 @@ any purpose, even commercially
 <br />
 <br />
 
-(Not my quote, fund the reference [here](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928))
+(Not my quote, find the reference [here](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928))
 
 
-## I won't be **#BulliedIntoBadScience**!
+## We won't be **#BulliedIntoBadScience**!
 
 ```
                     Thank you for listening!
