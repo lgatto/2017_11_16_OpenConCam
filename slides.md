@@ -30,29 +30,20 @@ any purpose, even commercially
 
 <img src="./DSC_5386_cropped.JPG" alt="Corina and Laurent", width="60%" align="right">
 
-## 
+## Yes, it's personal!
 
-Yes, it's personal!
+## **Trust** - I need to trust to stand on your shoulders.
 
-## 
+## **Reproducible** - it's not only your shoulders I will stand on.
 
-- Trust
-- Reproducible
-- Open 
+## **Open** - I need to know what I am going to stand on. And I want **everybody** to be able to know.
 
-## 
 
-Yes, it's personal!
+## Yes, it's personal!
 
-## 
+## So what is this talk about?
 
-So what is this talk about?
-
-## 
-
-So what is this talk about?
-
-It's about the science that we are passionate about.
+## It's about the science that we are passionate about.
 
 ## 
 
@@ -61,11 +52,7 @@ It's about the science that we are passionate about.
   to make the paper look better for publishing at prestigious
   journals.
 
-## [http://BulliedIntoBadScience.org/](http://BulliedIntoBadScience.org/)
-
-The Bullied Into Bad Science campaign is an initiative by early career
-researchers (ECRs) for early career researchers who aim for a fairer,
-more open and ethical research and publication environment.
+##  The Bullied Into Bad Science campaign is an initiative by early career researchers (ECRs) for early career researchers who aim for a fairer, more open and ethical research and publication environment.
 
 ## Background
 
@@ -73,6 +60,9 @@ more open and ethical research and publication environment.
 - Discussions at the University of Cambridge (end 2016) - *mixed results*
 - Informal discussions with pro VC (start 2017) - **FAIL**
 - Going public with **#BulliedIntoBadScience** (June 2017)
+
+## Success?
+
 
 ## Success?
 
@@ -96,13 +86,26 @@ more open and ethical research and publication environment.
 ## Everyday struggle
 
 - And my **day job**? Why do *ECR* need to fight for **better**, **open**
-  and more **trustworthy** research?  
+  and more **trustworthy** research?
 - What's the impact on being an open activist on my **career**?
   **Good, IMHO**!
+  
+## More struggle
+  
 - So much work, so little time. There are too many fights to pick - **pick the battles that matter most to you**.
 - There are multiple ways to fight any battle, and often several are
   needed in parallel: **official** procedure and **community** efforts.
-- [**No researcher is too junior to fix science**](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928)!
+
+## No researcher is too junior to fix science!
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+(Not my quote, fund the reference [here](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928))
+
 
 ## I won't be **#BulliedIntoBadScience**!
 
@@ -110,7 +113,8 @@ more open and ethical research and publication environment.
                     Thank you for listening!
 ```
 
-Link to content: http://bit.ly/20171116OpenConCam
+- More details: [http://BulliedIntoBadScience.org/](http://BulliedIntoBadScience.org/)
+- Link to content: http://bit.ly/20171116OpenConCam
 
 These slides are available under a creative common
 [CC-BY license](http://creativecommons.org/licenses/by/4.0/). You are
