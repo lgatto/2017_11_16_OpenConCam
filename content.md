@@ -3,7 +3,7 @@
 
 I am going to tell you about a long, still on-going a journey. I'll
 talk about my journey, but it applies to many, I know. And when you
-are on a long journey, you meet many people, take help you
+are on a long journey, you meet many people, they help you
 along. Before telling more about this journey, I would like to thank
 some that are close to my heart when it comes to open science and open
 research. These are the people who helped organising this event, and
@@ -16,12 +16,12 @@ Logan, who is the person who initiated and who leads the
 
 I don't know about you, but I care a lot about my work. I am a
 scientist doing research in the area of computational biology,
-especially spatial proteomics. At the end of my degree (that was in
+especially spatial proteomics. At the end of my degree (in
 biology), I wasn't able to imagine anything else I could do other than
 research. I never intended to do the kind of research I am doing now,
 but I wanted to understand the world around me. What has fascinated me
 since the beginning in my work is the method of scientific
-investigation, a method to observe, define hypothesis, test them and,
+investigation, a method to observe, define hypotheses, test them and,
 eventually understand any aspect of our world we want to learn about.
 
 What are some of the features that make this scientific investigation
@@ -35,9 +35,9 @@ about is characterised by:
 
 I didn't realise this as a young PhD student, when initiating my
 journey. Nobody actually ever taught me that these concepts are among
-the very foundation that make science what it is, that we can stand on
-the shoulders of the giants that preceded us and that, may be, others
-will be able to stand on our shoulder, on day. This is the kind of
+the very foundations that make science what it is, that we can stand on
+the shoulders of the giants that preceded us and that, maybe, others
+will be able to stand on our shoulders, one day. This is the kind of
 science that I am passionate about, that I feel I can do until the
 very end.
 
@@ -56,10 +56,10 @@ This is a quote shared with us by one of the signatories of the
 > to make the paper look better for publishing at prestigious
 > journals.
 
-We all have constrains in our work, in our everyday live. We don't
+We all have constraints in our work, in our everyday lives. We don't
 live and work in an ivory tower. Times are hard. Things are certainly
 harder for many than there are for me. We have to live with these
-constrains, and we have to do our research with these in mind. 
+constraints, and we have to do our research with these in mind. 
 
 But there are some compromises that we won't want to make. We want to
 pursue our research following our values, following the principles
@@ -122,7 +122,7 @@ we could consider indicators of success, or lack thereof.
 
 ## Everyday struggle
 
-- And my **day job**? Why do *ECR* need to fight for **better**,
+- And my **day job**? Why do *ECRs* need to fight for **better**,
   **open** and more **trustworthy** research?
   
 - What's the impact on being an open activist on my **career**?
