@@ -162,8 +162,8 @@ any purpose, even commercially
 
 - And my **day job**? Why do *ECR* need to fight for **better**, **open**
   and more **trustworthy** research?
-- What's the impact on being an open activist on my **career**?
-  **Good, IMHO**!
+- What's the impact of being an open activist on my academic
+  **career**?  **Good, IMHO**!
 
 ## More struggle
   
