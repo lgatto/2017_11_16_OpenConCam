@@ -14,7 +14,6 @@ output:
 Laurent Gatto        https://lgatto.github.io        @lgatt0
 ```
 
-
 <font size="4">These slides are available under a creative common
 [CC-BY license](http://creativecommons.org/licenses/by/4.0/). You are
 free to share (copy and redistribute the material in any medium or
