@@ -66,6 +66,23 @@ any purpose, even commercially
 
 ## Background
 
+## Background
+
+- Elsevier/JISC negotiations (mid 2016) - **FAIL**
+
+## Background
+
+- Elsevier/JISC negotiations (mid 2016) - **FAIL**
+- Discussions at the University of Cambridge (end 2016) - *mixed results*
+
+## Background
+
+- Elsevier/JISC negotiations (mid 2016) - **FAIL**
+- Discussions at the University of Cambridge (end 2016) - *mixed results*
+- Informal discussions with pro VC (start 2017) - **FAIL**
+
+## Background
+
 - Elsevier/JISC negotiations (mid 2016) - **FAIL**
 - Discussions at the University of Cambridge (end 2016) - *mixed results*
 - Informal discussions with pro VC (start 2017) - **FAIL**
@@ -73,6 +90,28 @@ any purpose, even commercially
 
 ## Success?
 
+## Success?
+
+- Corina just won a Shuttleworth Flash Grant for **#BulliedIntoBadScience**! **WIN**
+
+## Success?
+
+- Corina just won a Shuttleworth Flash Grant for **#BulliedIntoBadScience**! **WIN**
+- Numbers: **140 ECRs have signed it** - **73 non-ECRs support it** - *?*
+
+## Success?
+
+- Corina just won a Shuttleworth Flash Grant for **#BulliedIntoBadScience**! **WIN**
+- Numbers: **140 ECRs have signed it** - **73 non-ECRs support it** - *?*
+- Feedback - **WIN** (all good, no bad)
+
+## Success?
+
+- Corina just won a Shuttleworth Flash Grant for **#BulliedIntoBadScience**! **WIN**
+- Numbers: **140 ECRs have signed it** - **73 non-ECRs support it** - *?*
+- Feedback - **WIN** (all good, no bad)
+- In Cambridge - **FAIL**. (But that doesn't matter, as long as others
+  benefit. It never was meant to be a Cambridge thing anyway) ...
 
 ## Success?
 
@@ -85,13 +124,39 @@ any purpose, even commercially
   on God’s earth" - **FAIL**
 
 ## Continuing the fight
+
+## Continuing the fight
+- Approach prominent academics directly.
+
+## Continuing the fight
+- Approach prominent academics directly.
+- Evidence to the UK Parliament Science and Technology Committee
+  inquiry on [Research Integrity](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/inquiries/parliament-2017/research-integrity-17-19/).
+
+
+## Continuing the fight
 - Approach prominent academics directly.
 - Evidence to the UK Parliament Science and Technology Committee
   inquiry on [Research
   Integrity](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/inquiries/parliament-2017/research-integrity-17-19/).
 - Update our web page, translations, regular blog posts, ....
-- Bring the discussion about DORA to the Regent House (University of Cambridge)?
 
+## Continuing the fight
+- Approach prominent academics directly.
+- Evidence to the UK Parliament Science and Technology Committee
+  inquiry on [Research
+  Integrity](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/inquiries/parliament-2017/research-integrity-17-19/).
+- Update our web page, translations, regular blog posts, ....
+- Bring the discussion about DORA to the Regent House at the
+  University of Cambridge?
+
+
+## All this doesn't without some struggle...
+
+## Everyday struggle
+
+- And my **day job**? Why do *ECR* need to fight for **better**, **open**
+  and more **trustworthy** research?
 
 ## Everyday struggle
 
@@ -99,12 +164,18 @@ any purpose, even commercially
   and more **trustworthy** research?
 - What's the impact on being an open activist on my **career**?
   **Good, IMHO**!
+
+## More struggle
   
+- So much work, so little time. There are too many fights to pick -
+  **pick the battles that matter most to you**.
+
 ## More struggle
   
 - So much work, so little time. There are too many fights to pick - **pick the battles that matter most to you**.
-- There are multiple ways to fight any battle, and often several are
-  needed in parallel: **official** procedure and **community** efforts.
+- There are multiple ways to fight a battle, and often several are
+  needed in parallel: **official** procedure and **community**
+  efforts.
 
 ## It's not *only* personal.
 
