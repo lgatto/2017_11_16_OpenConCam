@@ -3,7 +3,7 @@
 
 I am going to tell you about a long, still on-going a journey. I'll
 talk about my journey, but it applies to many, I know. And when you
-are on a long journey, you meet many people, they help you
+are on a long journey, you meet many people, and they help you
 along. Before telling more about this journey, I would like to thank
 some that are close to my heart when it comes to open science and open
 research. These are the people who helped organising this event, and
@@ -167,9 +167,7 @@ If there's one thing that is important to remember, it's that
 
 But while no researcher is too young, some certainly are more
 vulnerable than others. It is thus even more important that the more
-priviledged ones (and that certainly counts me: white, male, from a
+privileged ones (and that certainly counts me: white, male, from a
 prestigious institution) make themselves heard so that, together
 
 > We won't be **#BulliedIntoBadScience**!
-
-
