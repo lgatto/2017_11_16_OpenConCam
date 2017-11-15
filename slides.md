@@ -44,7 +44,13 @@ any purpose, even commercially
 
 ## So what is this talk about?
 
-## It's about the science that we are passionate about.
+## So what is this talk about? It's about the science that **we** are passionate about.
+
+## **But** that is not always the science that is practised.
+
+<br /> <br /> <br /> <br /> <br />
+
+(more about this later)
 
 ## 
 
@@ -107,7 +113,6 @@ any purpose, even commercially
 ## No researcher is too junior to fix science!
 
 <br /> <br /> <br /> <br /> <br />
-
 
 (Not my quote, find the reference [here](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928))
 
