@@ -71,7 +71,7 @@ any purpose, even commercially
 ## Success?
 
 - Corina just won a Shuttleworth Flash Grant for **#BulliedIntoBadScience**! **WIN**
-- Numbers: **135 ECRs have signed it** - **71 non-ECRs support it** - *?*
+- Numbers: **140 ECRs have signed it** - **73 non-ECRs support it** - *?*
 - Feedback - **WIN** (all good, no bad)
 - In Cambridge - **FAIL**. (But that doesn't matter, as long as others
   benefit. It never was meant to be a Cambridge thing anyway) ...

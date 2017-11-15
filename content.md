@@ -101,7 +101,7 @@ we could consider indicators of success, or lack thereof.
 - [Corina](http://corinalogan.com/) just won a Shuttleworth Foundation
   Flash Grant for **#BulliedIntoBadScience**! **WIN**
 
-- Numbers: **135 ECRs have signed it** - **71 non-ECRs support it** -
+- Numbers: **140 ECRs have signed it** - **73 non-ECRs support it** -
   unsure what they really mean.
 
 - Feedback - **WIN** (all good, no bad)
