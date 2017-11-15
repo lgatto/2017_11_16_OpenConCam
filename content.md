@@ -72,7 +72,8 @@ that prompted us and guided us along the way.
 > early career researchers who aim for a fairer, more open and ethical
 > research and publication environment.
 
-Because a good researcher and a successful researcher are not the same
+Because science and academia are not necessarily aligned. Because a
+good researcher and a successful researcher are not the same
 thing. With this campaign, we want to lead individuals and
 institutions in adopting open practices to improve research rigour. We
 want a good researcher and a successful academic to realign.
@@ -85,8 +86,10 @@ successful outcomes. Efforts that often lead to disappointment and
 frustrations.
 
 We have already written about the background behind the campaign, such
-as for example in [link] and [link]. Here, I want to provide a short
-summary to give you an idea of why this campaign exists.
+as for example in this PLoS ECR
+[post](http://blogs.plos.org/thestudentblog/2017/09/01/bullied-into-going-national-early-career-researchers-are-taking-initiative/). Here,
+I want to provide a short summary to give you an idea of why this
+campaign exists.
 
 ## Success?
 
@@ -138,6 +141,21 @@ we could consider indicators of success, or lack thereof.
 
 - There are multiple ways to fight any battle, and often several are
   needed in parallel: **official** procedure and **community** efforts.
+
+## It's not only personal
+
+I started this presentation by sharing my experience, and highlighting
+how the current unethical research environment affected me, as an
+individual. But it's not about me, of course. It would be too easy to
+those, who don't have ethical research high on their agenda, to
+dismiss everything in a blink of an eye.
+
+There is of course a community of ECR - PhD students, postdocs,
+tenure-tracked researchers, ... - on whose shoulders I stand at this
+very moment. These are the researchers that do the research, the all
+too often silent working force that drive research every single
+day. These are the researchers who have signed or publicly support
+this campaign. And there are many more that haven't yet.
 
 ## Final word
 

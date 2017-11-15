@@ -1,5 +1,5 @@
 ---
-title: "I won't be #BulliedIntoBadScience!"
+title: "I won't be Bullied Into Bad Science!"
 author: "Laurent Gatto"
 output:
   rmdshower::shower_presentation:
@@ -16,12 +16,12 @@ Laurent Gatto        https://lgatto.github.io        @lgatt0
 
 Link to content: http://bit.ly/20171116OpenConCam
 
-These slides are available under a creative common
+<font size="4">These slides are available under a creative common
 [CC-BY license](http://creativecommons.org/licenses/by/4.0/). You are
 free to share (copy and redistribute the material in any medium or
 format) and adapt (remix, transform, and build upon the material) for
 any purpose, even commercially
-<img src="/home/lg390/Pictures/cc1.jpg" alt="cc1" height="30px">.
+<img src="/home/lg390/Pictures/cc1.jpg" alt="cc1" height="30px">.</font>
 
 ## Together on a journey
 
@@ -100,18 +100,19 @@ any purpose, even commercially
 - There are multiple ways to fight any battle, and often several are
   needed in parallel: **official** procedure and **community** efforts.
 
+## It's not *only* personal.
+
+## It's not *only* personal - standing on the shoulders of ECRs.
+
 ## No researcher is too junior to fix science!
 
-<br />
-<br />
-<br />
-<br />
-<br />
+<br /> <br /> <br /> <br /> <br />
+
 
 (Not my quote, find the reference [here](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928))
 
 
-## We won't be **#BulliedIntoBadScience**!
+## **We** won't be **#BulliedIntoBadScience**!
 
 ```
                     Thank you for listening!
@@ -120,12 +121,13 @@ any purpose, even commercially
 - More details: [http://BulliedIntoBadScience.org/](http://BulliedIntoBadScience.org/)
 - Link to content: http://bit.ly/20171116OpenConCam
 
-These slides are available under a creative common
+<font size="4">These slides are available under a creative common
 [CC-BY license](http://creativecommons.org/licenses/by/4.0/). You are
 free to share (copy and redistribute the material in any medium or
 format) and adapt (remix, transform, and build upon the material) for
 any purpose, even commercially
-<img src="/home/lg390/Pictures/cc1.jpg" alt="cc1" height="30px">.
+<img src="/home/lg390/Pictures/cc1.jpg" alt="cc1" height="30px">.</font>
+
 
 
 
