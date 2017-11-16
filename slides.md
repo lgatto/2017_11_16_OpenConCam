@@ -195,7 +195,7 @@ any purpose, even commercially
 ```
 
 - More details: [http://BulliedIntoBadScience.org/](http://BulliedIntoBadScience.org/)
-- Link to content: https://lgatto.github.io/BulliedIntoBadScience-OpenConCam
+- Link to content: http://bit.ly/20171116OpenConCam
 
 <font size="4">These slides are available under a creative common
 [CC-BY license](http://creativecommons.org/licenses/by/4.0/). You are
