@@ -33,11 +33,11 @@ any purpose, even commercially
 
 ## Yes, it's personal!
 
-## **Trust** - I need to trust to stand on your shoulders.
+## **Trust** - I need to trust you to stand on your shoulders.
 
-## **Reproducible** - it's not only your shoulders I will stand on.
+## **Reproducibility** - it's not only your shoulders I will stand on.
 
-## **Open** - I need to know what I am going to stand on. And I want **everybody** to be able to know.
+## **Openness** - I need to know what I am going to stand on. And I want **everybody** to be able to know.
 
 
 ## Yes, it's personal!
@@ -151,7 +151,7 @@ any purpose, even commercially
   University of Cambridge?
 
 
-## All this doesn't without some struggle...
+## All this isn't without some struggle...
 
 ## Everyday struggle
 
